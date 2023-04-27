@@ -1,4 +1,4 @@
-*Note : Please use [nbviewer](https://nbviewer.org/) for clean view of the notebooks.*/
+*Note : Please use [nbviewer](https://nbviewer.org/) for clean view of the notebooks.* /
 First copy the link of the github notebook and paste it to the viewing bar of the site and press GO!
 
 ## [Clinically Adaptable Machine Learning Model To Identify Early Appreciable Features of Diabetes In Bangladesh](https://www.sciencedirect.com/science/article/pii/S2667102623000049)
